@@ -38,3 +38,6 @@ For users migrating away from generic auto-appliers, **AiApply** provides an all
 2. Click **Cancel Auto-Renew** at least 48 hours prior to your renewal cycle.
 3. Export your saved application URLs to CSV before the subscription lapses.
 4. Import your profile directly into an adaptive AI tool like [AiApply](https://redirect-hub.457239850.workers.dev/aiapply) to continue applications seamlessly.
+
+---
+*Also migrating from Teal? Check our verified [Teal HQ Cancellation & Migration Guide](https://github.com/wangxf0892/how-to-cancel-teal-hq-and-best-alternatives-2026).*
