@@ -41,3 +41,5 @@ For users migrating away from generic auto-appliers, **AiApply** provides an all
 
 ---
 *Also migrating from Teal? Check our verified [Teal HQ Cancellation & Migration Guide](https://github.com/wangxf0892/how-to-cancel-teal-hq-and-best-alternatives-2026).*
+
+*Also using Kickresume? Check our [Kickresume Cancellation & Migration Guide](https://github.com/wangxf0892/how-to-cancel-kickresume-and-export-resumes-2026).*
