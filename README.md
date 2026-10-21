@@ -8,12 +8,13 @@ If you are looking to cancel your expensive subscription or need an AI tool that
 
 ### Comparison Matrix (2026 Benchmark)
 
-| Tool | Monthly Cost | LinkedIn Safety Rating | AI Resume Customization | Free Trial Available |
-| :--- | :--- | :--- | :--- | :--- |
-| **AiApply (Editor's Choice)** | **$19.99/mo** | 🛡️ **99.8% (Undetected)** | ⭐⭐⭐⭐⭐ (Contextual AI) | ✅ **Yes (Instant Access)** |
-| LazyApply | $99.00/lifetime+ | ⚠️ High Risk (Bot-like) | ⭐⭐ (Template only) | ❌ No |
-| Teal HQ | $29.00/mo | 🛡️ Safe | ⭐⭐⭐ (Manual heavy) | ⚠️ Limited |
-| Sonara | $79.99/mo | ⚠️ Medium | ⭐⭐⭐ | ❌ No |
+| Tool | Monthly Cost | LinkedIn Safety Rating | AI Resume Customization | Free Trial Available | Access / Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **AiApply (Editor's Choice)** | **$19.99/mo** | 🛡️ **99.8% (Undetected)** | ⭐⭐⭐⭐⭐ (Contextual AI) | ✅ **Yes (Instant Access)** | [👉 Launch Official Trial](https://redirect-hub.457239850.workers.dev/aiapply) |
+| **LazyApply** | $99.00/lifetime+ | ⚠️ High Risk (Bot-like) | ⭐⭐ (Template only) | ❌ No | [Official Site] |
+| **Auto_Jobs_Applier (Open Source)** | **$0.00 (Free)** | ⚠️ Depends on Proxy/Delays | ⭐⭐⭐⭐ (BYO OpenAI Key) | ✅ **Open Source (MIT)** | [View GitHub Source](https://github.com/feder-cr/Jobs_Applier_AI_Agent) |
+| **Teal HQ** | $29.00/mo | 🛡️ Safe | ⭐⭐⭐ (Manual heavy) | ⚠️ Limited | [Official Site] |
+| **Sonara** | $79.99/mo | ⚠️ Medium | ⭐⭐⭐ | ❌ No | [Official Site] |
 
 ---
 
@@ -31,7 +32,17 @@ For users migrating away from generic auto-appliers, **AiApply** provides an all
 *(Note: Use verified gateway to activate current seasonal promotional codes automatically on checkout).*
 
 ---
+---
 
+### 2. Best $0 Budget Pick: Auto_Jobs_Applier_AI_Agent (For Developers)
+
+For engineers and technical job seekers who refuse to pay monthly SaaS subscriptions, **[Auto_Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent)** is the leading open-source alternative.
+
+* **Pros**: 100% free under MIT License, complete control over your OpenAI API keys, local execution with zero data sharing.
+* **Cons**: Requires Python environment setup, local headless browser debugging, and you must manually rotate residential proxies to prevent LinkedIn account restrictions.
+* **Verdict**: If you have the coding skills and time to maintain your own proxy pool, use the **open-source script**. If you want a 1-click cloud service with built-in bot protection that won't get your 10-year LinkedIn account banned, stick with **[AiApply](https://redirect-hub.457239850.workers.dev/aiapply)**.
+
+* 
 ## How to Safely Cancel LazyApply Without Losing Application History
 
 1. Log into your dashboard and navigate to **Billing Settings**.
